@@ -1,3 +1,6 @@
+
+/**HTML & Body**/ 
+
 body {
 	color: rgb(49, 2, 177);
 	background: #FEFCFF;
@@ -8,6 +11,29 @@ body {
 	font-family: 'Catamaran', sans-serif;
 }
 
+/* Small devices (landscape phones, 544px and up) */
+@media (min-width: 544px) {  
+  html {font-size:1rem;} /*1rem = 16px*/
+}
+ 
+/* Medium devices (tablets, 768px and up)  */
+@media (min-width: 768px) {  
+  html {font-size:1.2rem;} /*1rem = 16px*/
+}
+ 
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+  html {font-size:1.5rem;} /*1rem = 16px*/
+}
+ 
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+  html {font-size:1.5rem;} /*1rem = 16px*/    
+}
+ 
+
+
+/**Header1 and About**/ 
 h1 {
 	font-family: 'Bree Serif', serif;
 	letter-spacing: .1rem;
@@ -20,8 +46,7 @@ h1 {
 
 .profilePicture {
 	border-radius: 50%;
-	height: 250px;
-	width: 250px;
+	height: auto;
 	object-fit: cover;
 	margin: 10px;
 }
@@ -32,10 +57,16 @@ a {
 }
 
 .about {
-	font-size: 22px;
 	line-height: 1.6;
 	margin-top: 1rem;
 }
+
+
+/**Navbar and links**/ 
+.socialmedialinks a { 
+	margin-right: 1rem;
+}
+
 
 .fa-github-alt:hover {
 	color: #f49b42;
