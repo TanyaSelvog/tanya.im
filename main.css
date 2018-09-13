@@ -69,9 +69,10 @@ a {
 }
 */
 
-	.socialmedialinks		{font-size:2rem;
-		/*1rem = 16px*/
+.socialmedialinks	{
+	font-size:2rem;	/*1rem = 16px*/
 }
+
 .fa-github-alt:hover {
 	color: #f49b42;
 }
