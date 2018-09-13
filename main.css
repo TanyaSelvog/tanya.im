@@ -13,7 +13,7 @@ body {
 
 /* Small devices (landscape phones, 544px and up) */
 @media (min-width: 544px) {  
-  html {font-size:1rem;} /*1rem = 16px*/
+	html {font-size:1rem;} /*1rem = 16px*/
 }
  
 /* Medium devices (tablets, 768px and up)  */
@@ -34,22 +34,13 @@ body {
 
 
 /**Header1 and About**/ 
-h1 {
+h2 {
 	font-family: 'Bree Serif', serif;
 	letter-spacing: .1rem;
 	margin: 10px;
 }
 
-.bg-1 {
-	margin-top: 1rem;
-}
 
-.profilePicture {
-	border-radius: 50%;
-	height: auto;
-	object-fit: cover;
-	margin: 10px;
-}
 
 a {
 	color: rgba(189, 30, 155, 0.904);
