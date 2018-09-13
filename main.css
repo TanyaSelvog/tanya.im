@@ -1,0 +1,50 @@
+body {
+	color: rgb(49, 2, 177);
+	background: #FEFCFF;
+	background: -webkit-radial-gradient(center, #FEFCFF, #F0EDFF);
+	background: -moz-radial-gradient(center, #FEFCFF, #F0EDFF);
+	background: radial-gradient(ellipse at center, #FEFCFF, #F0EDFF);
+	background-attachment: fixed;
+	font-family: 'Catamaran', sans-serif;
+}
+
+h1 {
+	font-family: 'Bree Serif', serif;
+	letter-spacing: .1rem;
+	margin: 10px;
+}
+
+.bg-1 {
+	margin-top: 1rem;
+}
+
+.profilePicture {
+	border-radius: 50%;
+	height: 250px;
+	width: 250px;
+	object-fit: cover;
+	margin: 10px;
+}
+
+a {
+	color: rgba(189, 30, 155, 0.904);
+	text-decoration: none;
+}
+
+.about {
+	font-size: 22px;
+	line-height: 1.6;
+	margin-top: 1rem;
+}
+
+.fa-github-alt:hover {
+	color: #f49b42;
+}
+
+.fa-twitter:hover{
+	color: #42e5f4;
+}
+
+.fa-linkedin:hover {
+	color: #1fad23;
+}
