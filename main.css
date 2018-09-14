@@ -75,3 +75,11 @@ a {
 .fa-linkedin:hover {
 	color: #1fad23;
 }
+.fa-home:hover {
+	color: #79144b;
+}
+
+/*for ada's page*/
+h1 {
+font-family: 'Delius', cursive;
+}
