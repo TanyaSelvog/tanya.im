@@ -1,5 +1,5 @@
 
-/**HTML & Body for index.html**/ 
+/**index.html*/ 
 
 #me {
 	color: rgb(49, 2, 177);
@@ -75,7 +75,7 @@ a {
 	color: #ca3e3e;
 }
 
-/*for ada.html*/
+/*for ada.html******/ 
 
 #ada {
 	background-color: rgb(243, 244, 245); 
@@ -83,8 +83,6 @@ a {
 	color: rgb(38, 31, 128);
 }
  
-
-
 .carousel-caption {
   position: absolute;
   right: 15%;
