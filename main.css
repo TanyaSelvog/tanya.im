@@ -1,7 +1,7 @@
 
-/**HTML & Body**/ 
+/**HTML & Body for index.html**/ 
 
-body {
+#me {
 	color: rgb(49, 2, 177);
 	background: #FEFCFF;
 	background: -webkit-radial-gradient(center, #FEFCFF, #F0EDFF);
@@ -72,12 +72,18 @@ a {
 	color: #1fad23;
 }
 .fa-home:hover {
-	color: #79144b;
+	color: #ca3e3e;
 }
 
-/*for ada's page*/
+/*for ada.html*/
+
+#ada {
+	background-color: rgb(243, 244, 245); 
+	font-family: 'Catamaran', sans-serif;
+}
+ 
 h1 {
-	font-family: 'Delius', cursive;
+	color: rgb(38, 31, 128);
 }
 
 .carousel-caption {
@@ -93,3 +99,6 @@ h1 {
 
 }
 
+.adalinks a {
+	color: rgb(61, 50, 214);
+}
