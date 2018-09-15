@@ -80,11 +80,10 @@ a {
 #ada {
 	background-color: rgb(243, 244, 245); 
 	font-family: 'Catamaran', sans-serif;
-}
- 
-h1 {
 	color: rgb(38, 31, 128);
 }
+ 
+
 
 .carousel-caption {
   position: absolute;
@@ -99,6 +98,11 @@ h1 {
 
 }
 
+.aboutada {
+	padding-top: 20px;
+	line-height: 1;
+}
+
 .adalinks a {
-	color: rgb(61, 50, 214);
+	color: rgb(100, 19, 146);
 }
