@@ -8,7 +8,7 @@
 	background: -moz-radial-gradient(center,rgb(240, 243, 255), #F0EDFF);
 	background: radial-gradient(ellipse at center,rgb(240, 243, 255), #F0EDFF);
 	background-attachment: fixed;
-	font-family: 'Catamaran', sans-serif;
+	font-family: 'Candara', sans-serif;
 }
 
 /* Small devices (landscape phones, 544px and up) */
@@ -35,7 +35,7 @@
 
 /**Header1 and About**/ 
 h2 {
-	font-family: 'Bree Serif', serif;
+	font-family: 'Candara', sans-serif;
 	letter-spacing: .1rem;
 	margin: 10px;
 }
@@ -79,7 +79,7 @@ a {
 
 #ada {
 	background-color: rgb(243, 244, 245); 
-	font-family: 'Catamaran', sans-serif;
+	font-family: 'Candara', sans-serif;
 	color: rgb(38, 31, 128);
 }
  
