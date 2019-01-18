@@ -2,11 +2,11 @@
 /**index.html*/ 
 
 #me {
-	color: rgb(49, 2, 177);
-	background: #FEFCFF;
-	background: -webkit-radial-gradient(center, #FEFCFF, #F0EDFF);
-	background: -moz-radial-gradient(center, #FEFCFF, #F0EDFF);
-	background: radial-gradient(ellipse at center, #FEFCFF, #F0EDFF);
+	color: rgb(92, 73, 145);
+	background: rgb(240, 243, 255);
+	background: -webkit-radial-gradient(center, rgb(240, 243, 255), #F0EDFF);
+	background: -moz-radial-gradient(center,rgb(240, 243, 255), #F0EDFF);
+	background: radial-gradient(ellipse at center,rgb(240, 243, 255), #F0EDFF);
 	background-attachment: fixed;
 	font-family: 'Catamaran', sans-serif;
 }
